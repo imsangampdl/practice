@@ -1,6 +1,6 @@
 # practice
-just trying to hang around to get used to with GitHub
 
+a bit introduction
 
 software developer who loves cooking more than he develops software
 
